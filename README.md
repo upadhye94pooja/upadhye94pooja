@@ -1,4 +1,5 @@
 SALES ANALYSIS PROJECT 
+
 PURPOSE:
  To unlock sales insights that are not visible before for sales team for decision support and automate them to recorded manual time spent in data gathering.
 
